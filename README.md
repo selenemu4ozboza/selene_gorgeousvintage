@@ -22,7 +22,7 @@ El objetivo es mostrar la identidad de la tienda y crear una experiencia visual 
 
 ## 🔗 Enlace al proyecto
 
-[Ver la página web online](URL_DE_TU_GITHUB_PAGES_AQUÍ)
+[Ver la página web online]([URL_DE_TU_GITHUB_PAGES_AQUÍ](https://github.com/selenemu4ozboza/selene_gorgeousvintage.git))
 
 ---
 
